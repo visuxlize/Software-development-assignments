@@ -11,7 +11,27 @@ This directory contains all projects and assignments completed for the Python co
 ## Projects and Assignments
 
 ### Completed Projects
-*[Add completed projects as you finish them]*
+
+#### CEIS150 - Programming with Objects (Stock Analyzer)
+- **Course**: CEIS150 - Programming with Objects
+- **Date**: August 2025
+- **Description**: A comprehensive stock analysis application demonstrating object-oriented programming concepts
+- **Location**: `CEIS150 - Programming with objects/`
+
+**Features:**
+- Stock portfolio management (add/delete stocks)
+- CSV data import from Yahoo Finance
+- Stock price and volume analysis
+- Data visualization with matplotlib
+- Comprehensive reporting with statistics
+- Object-oriented design with Stock and DailyData classes
+
+**Technologies Used:**
+- Python 3.x
+- Object-Oriented Programming (classes, inheritance)
+- CSV file processing
+- Matplotlib for data visualization
+- File I/O operations
 
 ### Upcoming Projects
 *[Add upcoming assignments and projects]*
@@ -52,14 +72,19 @@ This directory contains all projects and assignments completed for the Python co
 
 ```
 Python Course/
-├── README.md                    # This file
-├── [Project 1]/                 # Individual project directories
+├── README.md                                    # This file
+├── CEIS150 - Programming with objects/          # Stock Analyzer Project
+│   ├── main.py                                  # Main application entry point
+│   ├── stock_class.py                           # Stock and DailyData classes
+│   ├── MSFT.csv                                 # Microsoft stock data
+│   ├── TSLA.csv                                 # Tesla stock data
+│   ├── WMT.csv                                  # Walmart stock data
+│   └── stock.png                                # Generated chart output
+├── [Future Project 1]/                          # Individual project directories
 │   ├── main.py
 │   ├── requirements.txt
 │   └── README.md
-├── [Project 2]/
-│   └── ...
-└── assignments/                 # Smaller assignments and exercises
+└── assignments/                                 # Smaller assignments and exercises
     └── ...
 ```
 
