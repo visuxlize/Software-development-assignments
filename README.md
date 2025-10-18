@@ -7,6 +7,11 @@ This repository contains all assignments and projects completed during my softwa
 ### Completed Courses
 - **C# Course** - *[Add completion date]*
   - Location: `C# Course/`
+  - Description: CEIS209 Course Project focusing on Exceptions and File Processing with Loan Tracker Application
+
+### In Progress Courses
+- **Python Course** - *[Add start date]*
+  - Location: `Python Course/`
   - Description: *[Add course description]*
 
 ### Upcoming Courses
@@ -28,7 +33,8 @@ Each course has its own directory containing:
 
 ## Technologies Covered
 
-- C# and .NET
+- **C# and .NET** - Object-oriented programming, exception handling, file I/O
+- **Python** - *[Add Python technologies as course progresses]*
 - *[Add other technologies as courses are completed]*
 
 ## Notes
