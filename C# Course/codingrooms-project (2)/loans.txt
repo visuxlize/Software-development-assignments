@@ -1,0 +1,1 @@
+Installment|ABC Bank|111-111-1111|bank@email.com|Truck|30000|5.25|3
