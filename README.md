@@ -5,17 +5,16 @@ This repository contains all assignments and projects completed during my softwa
 ## Course Structure
 
 ### Completed Courses
-- **C# Course** - *[Add completion date]*
+- **Programming with Objects - Completed - August 2025**
+  - Location: 'Python Course/'
+  - Description: This course builds on structured programming and introduces object-oriented and functional programming concepts. Students design, code, test and document business-oriented solutions using complex algorithms. Advanced topics include the use of libraries for data manipulation and visualization.
+- **C# Course** - Completed - October 2025**
   - Location: `C# Course/`
-  - Description: CEIS209 Course Project focusing on Exceptions and File Processing with Loan Tracker Application
-
-### In Progress Courses
-- **Python Course** - *[Add start date]*
-  - Location: `Python Course/`
-  - Description: *[Add course description]*
+  - Description: This course explores structured and object-oriented program development. Topics include language syntax, selection and iteration control structures, functions, debugger tools and techniques, objects, classes, encapsulation, polymorphism, and inheritance. An integrated development environment is used to program, design, code, and test structured and object-oriented applications. A programming language such as C# is used.
 
 ### Upcoming Courses
-*[Add future courses as they are completed]*
+November 2025 - Database Systems and Programming Fundamentals
+  Description: This course explores universal aspects of database systems that are common across programming languages, operating systems, or application types. Systems reviewed range from personal devices and desktop databases to large-scale, distributed database servers. Classic relational databases to modern data warehouses are presented. Topics covered are library creation, primary key selection, column identification, defining relationships, normalization, data indexing and storage, and query languages. Students code and execute programs and routines that create, insert, update, and delete data
 
 ## Repository Organization
 
@@ -33,9 +32,8 @@ Each course has its own directory containing:
 
 ## Technologies Covered
 
-- **C# and .NET** - Object-oriented programming, exception handling, file I/O
-- **Python** - *[Add Python technologies as course progresses]*
-- *[Add other technologies as courses are completed]*
+- C# and .NET
+- Python
 
 ## Notes
 
