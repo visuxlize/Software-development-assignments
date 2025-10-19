@@ -2,11 +2,8 @@
 
 This directory contains all projects and assignments completed for the Python course.
 
-## Course Overview
-*[Add course details here - course name, institution, duration, etc.]*
-
-## Learning Objectives
-*[Add what you're learning in this course]*
+## Course Overview & Learning Objectives
+This course builds on structured programming and introduces object-oriented and functional programming concepts. Students design, code, test and document business-oriented solutions using complex algorithms. Advanced topics include the use of libraries for data manipulation and visualization.
 
 ## Projects and Assignments
 
@@ -33,9 +30,6 @@ This directory contains all projects and assignments completed for the Python co
 - Matplotlib for data visualization
 - File I/O operations
 
-### Upcoming Projects
-*[Add upcoming assignments and projects]*
-
 ## Technologies and Concepts Covered
 
 - **Python Fundamentals**
@@ -58,9 +52,6 @@ This directory contains all projects and assignments completed for the Python co
   - Reading and writing files
   - CSV and JSON processing
   - File system operations
-
-- **Libraries and Frameworks**
-  - *[Add specific libraries as you use them]*
 
 ## Getting Started
 
@@ -93,7 +84,4 @@ Python Course/
 - **Python Documentation**: https://docs.python.org/3/
 - **Python Tutorial**: https://docs.python.org/3/tutorial/
 - **PEP 8 Style Guide**: https://pep8.org/
-
-## Notes
-
 This directory will be updated as new projects and assignments are completed throughout the Python course.
