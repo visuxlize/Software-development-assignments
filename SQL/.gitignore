@@ -1,0 +1,39 @@
+# Database connection files
+*.env
+.env.local
+config.ini
+
+# Database dumps
+*.sql.backup
+*.dump
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# MySQL specific
+*.ibd
+*.frm
+*.MYD
+*.MYI
+
+# Credentials
+credentials.txt
+passwords.txt
