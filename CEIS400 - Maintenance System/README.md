@@ -138,7 +138,7 @@ Password for every account is `pass1234`.
 
 ---
 
-## How the backend works (in plain terms)
+## How the backend works
 
 The backend is a Django project with two apps: `equipment` and
 `authentication`.
